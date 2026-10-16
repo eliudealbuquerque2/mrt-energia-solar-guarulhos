@@ -1,0 +1,30 @@
+MRT ENGENHARIA E ENERGIA SOLAR — SITE
+
+ARQUIVOS
+- index.html: site personalizado
+- logo-mrt.jpg: logomarca oficial enviada
+
+IMPORTANTE: mantenha index.html e logo-mrt.jpg na mesma pasta e envie os dois arquivos ao repositório GitHub Pages.
+
+CONFIGURAÇÕES
+- WhatsApp comercial: (11) 91998-5810
+- Atendimento: Guarulhos e região
+- Serviços: instalação de sistemas solares, projetos e dimensionamento, manutenção, limpeza de painéis e orientação sobre financiamento.
+
+PUBLICAÇÃO GRATUITA NO GITHUB PAGES
+1. Acesse https://github.com/ e crie uma conta, se necessário.
+2. Crie um repositório público chamado mrt-energia-solar-guarulhos.
+3. Dentro do repositório, use Add file > Upload files.
+4. Envie os dois arquivos: index.html e logo-mrt.jpg.
+5. Abra Settings > Pages.
+6. Em Build and deployment, escolha Deploy from a branch.
+7. Selecione branch main e pasta /(root); clique Save.
+8. Aguarde e abra o endereço mostrado na seção Pages.
+9. Teste o site e os botões do WhatsApp no celular.
+
+Tutorial oficial: https://docs.github.com/en/pages/quickstart
+
+NOTAS
+- O site não processa pagamentos nem armazena formulários; os botões abrem conversa no WhatsApp.
+- Revise as informações da empresa antes de divulgar. Acrescente endereço, CNPJ, e-mail, fotos e avaliações apenas se forem corretos.
+- GitHub Pages fornece endereço gratuito; domínio próprio pode ter custo.
